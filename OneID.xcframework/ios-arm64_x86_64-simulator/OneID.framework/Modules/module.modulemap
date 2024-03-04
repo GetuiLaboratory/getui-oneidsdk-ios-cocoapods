@@ -1,0 +1,5 @@
+framework module OneID {
+  umbrella header "OneID.h"
+  export *
+  module * { export * }
+}
