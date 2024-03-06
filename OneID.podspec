@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'OneID.xcframework'
   
   s.dependency 'GTCommonSDK', '>= 3.1.1.0'
-  s.dependency 'ZXSDK', '>= 3.2.0'
+  s.dependency 'ZXSDK', '>= 3.2.5'
   
   
   # “弱引用”所需的framework，多个用逗号隔开
