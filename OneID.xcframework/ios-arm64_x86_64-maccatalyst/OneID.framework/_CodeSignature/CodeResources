@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OneID.h</key>
 		<data>
-		OMxN7coawapjnPemSpw7t/TAUwE=
+		vqyDKEDguzGljFkRPwe59Sw2yHM=
 		</data>
 		<key>Headers/OnePrivateHeader.h</key>
 		<data>
@@ -14,11 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZWxFymA275HpfpI2ndB2M03cQWA=
+		o3IqRMTfAok8hiTxk3jEVJioFP4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		v9J0olGdlr8IlKr9DGaFyQHiLmI=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		QAIvcZ5X0eAsTwwQaZs6zalPtEM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,11 +31,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OMxN7coawapjnPemSpw7t/TAUwE=
+			vqyDKEDguzGljFkRPwe59Sw2yHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			8sK20n3fYLF1dPRYkpm5ycqJCjpVAwIesivVI2ECjjU=
+			xeKNPTS71h3pTFJhq7+lE7kRudmZRZjtLIuTPMbyrac=
 			</data>
 		</dict>
 		<key>Headers/OnePrivateHeader.h</key>
@@ -54,6 +58,17 @@
 			<key>hash2</key>
 			<data>
 			20ClTTulJtMAgwkNTpHYnSNuJ7fyHfITE0FSRFLTNGM=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QAIvcZ5X0eAsTwwQaZs6zalPtEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			6D3q9bmypwt5nO60f8H5B7v7heQ23NxwIynh/EtnRqo=
 			</data>
 		</dict>
 	</dict>

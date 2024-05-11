@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   # 名称，pod search 搜索的关键词,注意这里一定要和.podspec的名称一样,否则报错
   s.name         = "OneID"
   # 版本号/库原代码的版本
-  s.version      = "1.0.0.0"
+  s.version      = "1.0.1.0"
   # 简介
   s.summary      = "个推One SDK iOS CocoaPods 集成库"
   # 项目主页地址
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   # 使用了第三方静态库
   s.ios.vendored_frameworks = 'OneID.xcframework'
   
-  s.dependency 'GTCommonSDK', '>= 3.1.1.0'
+  s.dependency 'GTCommonSDK', '> 3.1.2.0'
   s.dependency 'ZXSDK', '>= 3.2.5'
   
   
