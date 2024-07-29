@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   # 使用了第三方静态库
   s.ios.vendored_frameworks = 'OneID.xcframework'
   
-  s.dependency 'GTCommonSDK', '> 3.1.4.0'
+  s.dependency 'GTCommonSDK', '> 3.1.3.0' #因为3130后直接是3150
   s.dependency 'ZXSDK', '>= 3.2.5'
   
   
