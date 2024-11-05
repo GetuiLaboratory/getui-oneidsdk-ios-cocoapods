@@ -3,7 +3,7 @@
 //  OneID
 //
 //  Created by ak on 2024/2/4.
-//  OneID-Version: 1.0.4.0
+//  OneID-Version: 1.0.5.0
 
 #import <Foundation/Foundation.h>
 
